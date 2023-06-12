@@ -12,8 +12,5 @@
 <p align="center"> 
   <img width="350" alt="Screenshot 2023-06-12 at 9 36 50 PM" src="https://github.com/sevketugurel/SinemaSalonuUygulamasi/assets/118289177/d2c7479b-b94d-4bda-8bc5-4e6a04832a85">
 
-</p> 
-<img width="505" alt="Screenshot 2023-06-12 at 9 37 14 PM" src="https://github.com/sevketugurel/SinemaSalonuUygulamasi/assets/118289177/455ca6a5-9f01-4948-9fca-5bcbbac5dfc9">
-
-<p align="center"> <img width="505" alt="Screenshot 2023-06-12 at 9 37 14 PM" src="https://github.com/sevketugurel/SinemaSalonuUygulamasi/assets/118289177/455ca6a5-9f01-4948-9fca-5bcbbac5dfc9">
+<p align="center"> <img width="350" alt="Screenshot 2023-06-12 at 9 37 14 PM" src="https://github.com/sevketugurel/SinemaSalonuUygulamasi/assets/118289177/455ca6a5-9f01-4948-9fca-5bcbbac5dfc9">
  </p>
